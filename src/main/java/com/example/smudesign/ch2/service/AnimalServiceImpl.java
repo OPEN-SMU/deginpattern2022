@@ -7,4 +7,7 @@ public class AnimalServiceImpl implements AnimalService {
     public void Speak(Animal animal) {
         animal.Speak();
     }
+//    public void Speak(Cat cat) {
+//        cat.Speak();
+//    }
 }
