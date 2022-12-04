@@ -23,4 +23,9 @@ public class PayServiceTest {
         pay = new SamgsungPay();
         payService.paying(pay);
     }
+
+    @Test
+    void payMent2() {
+        payService.paying();
+    }
 }
