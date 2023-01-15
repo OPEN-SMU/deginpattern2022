@@ -8,5 +8,6 @@ public class MeatDecorateTest {
     @Test
     void meatDecorateCreate() {
         meatDecorate = new MeatDecorate(new Pizza());
+        meatDecorate.bake();
     }
 }

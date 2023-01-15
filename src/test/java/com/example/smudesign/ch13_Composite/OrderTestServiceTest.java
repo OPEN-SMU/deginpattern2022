@@ -3,7 +3,7 @@ package com.example.smudesign.ch13_Composite;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class OrderServiceTest {
+class OrderTestServiceTest {
 
     private OrderService orderService;
 

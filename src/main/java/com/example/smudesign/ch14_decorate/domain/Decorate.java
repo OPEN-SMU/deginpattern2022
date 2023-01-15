@@ -10,4 +10,5 @@ abstract public class Decorate implements Bakable {
     public void bake() {
         bakable.bake();
     }
+
 }

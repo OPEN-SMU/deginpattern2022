@@ -8,5 +8,6 @@ public class PizzaTest {
     @Test
     void createPizza() {
         pizza = new Pizza();
+        pizza.bake();
     }
 }
